@@ -11,4 +11,4 @@
   (dashboard-setup-startup-hook)
   )
 
-(provide 'splash)
+(provide 'init-splash)

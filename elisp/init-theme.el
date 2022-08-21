@@ -3,4 +3,4 @@
   :init
   (load-theme 'spacemacs-dark t))
 
-(provide 'theme)
+(provide 'init-theme)

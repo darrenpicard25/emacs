@@ -25,4 +25,4 @@
   (which-key-mode)
   (setq which-key-idle-delay 1))
 
-(provide 'completion)
+(provide 'init-completion)

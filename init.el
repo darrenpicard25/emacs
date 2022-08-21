@@ -1,9 +1,13 @@
+
 (add-to-list 'load-path (concat user-emacs-directory "elisp"))
+(require 'init-base)
 
-(require 'base)
+(require 'init-theme)
 
-(require 'theme)
+(require 'init-org-settings)
 
-(require 'splash)
+(require 'init-splash)
 
-(require 'completion)
+(require 'init-completion)
+
+(require 'init-vcs)
